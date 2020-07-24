@@ -1,6 +1,6 @@
 # Shopping List
 
-A simple shopping list MERN stack web app with CRUD operation
+A simple shopping list MERN stack web application
 
 ## Requirements
 
